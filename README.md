@@ -29,4 +29,4 @@
   <img height="180em" width="48%" src="https://github-readme-stats-git-main-flipperweel.vercel.app/api?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SouFelipeOliveira/SouFelipeOliveira/blob/output/github-contribution-grid-snake.svg)
