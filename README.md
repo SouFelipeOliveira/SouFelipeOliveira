@@ -1,6 +1,6 @@
 <p align='center'>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=1321F7&center=true&multiline=true&repeat=false&random=false&width=435&lines=Welcome+to+my+Github+profile!+;I'm+Felipe+Oliveira+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=0007F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=60&lines=Welcome+to+my+Github+profile;I'm+Felipe+Oliveira" alt="Typing SVG" />
 </a>
 </p><br>
 
@@ -10,9 +10,9 @@
 
 
 <p align='center'>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1826F7&center=true&random=false&width=435&lines=I'm++happy+with+your+visit!%F0%9F%98%83" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=0007F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=60&lines=I'm+happy+with+your+visit!+%F0%9F%98%84" alt="Typing SVG" />
+</a>
 </p>
 
 - 🌱 I’m currently learning rest_framework
