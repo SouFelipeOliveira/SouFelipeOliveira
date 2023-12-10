@@ -26,7 +26,5 @@
 
 <p align=center>
   <img height="180em" width="48%" src='https://github-readme-stats-git-main-flipperweel.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true'/>
-  <img height="180em" width="48%" src="https://github-readme-stats-git-main-flipperweel.vercel.app/api?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-git-main-flipperweel.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </p>
-
-![Snake animation](https://github.com/SouFelipeOliveira/SouFelipeOliveira/blob/output/github-contribution-grid-snake.svg)
