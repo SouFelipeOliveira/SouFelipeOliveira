@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning rest_framework
 - 📫 How to reach me: felipe.souza@alunos.uerr.edu.br
-  
+
 <hr>
 <p align='center'>
   <img src='https://github-readme-streak-stats-gold.vercel.app?user=SouFelipeOliveira&theme=violet-punch&date_format=j%20M%5B%20Y%5D' />
@@ -28,6 +28,10 @@
   <img height="180em" width="48%" src='https://github-readme-stats-git-main-flipperweel.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true'/>
   <img height="180em" width="48%" src="https://github-readme-stats-git-main-flipperweel.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </p>
+
+  <p align='center'>
+    <img src="https://skillicons.dev/icons?i=python,django,git,html,css,js,postgres,linux" />
+  </p>
 
 <div align='center'>
   <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/blob/output/github-contribution-grid-snake-dark.svg' />
