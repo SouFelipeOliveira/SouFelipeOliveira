@@ -1,4 +1,3 @@
-<hr>
 <p align='center'>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=0007F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=60&lines=Welcome+to+my+Github+profile;I'm+Felipe+Oliveira" alt="Typing SVG" />
