@@ -51,4 +51,7 @@ Let's connect and share ideas:
   <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/blob/output/github-contribution-grid-snake-dark.svg' />
 </div>
 
-<img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'><img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'><img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'><img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'>
+<div align='center'>
+  <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'><img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'><img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/0f7a24f6-f664-409e-8849-b6fa2912460a'>
+</div>
+
