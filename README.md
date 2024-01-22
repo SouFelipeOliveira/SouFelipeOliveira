@@ -6,6 +6,8 @@
 
 <p align='center'>
   <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/582a347b-e9c6-4746-bb09-31bb6a9d2512' />
+  <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/582a347b-e9c6-4746-bb09-31bb6a9d2512' />
+  <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/582a347b-e9c6-4746-bb09-31bb6a9d2512' />
 </p>
 
 ## 🌱 Currently Learning
