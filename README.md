@@ -37,7 +37,7 @@ I'm currently focused on learning and improving my skills!
 
 Let's connect and share ideas:
 
-- Portfólio: in development...[]()
+- [Portfolio:](https://soufelipeoliveira.github.io/portfolio) in development...
 
 ## 🛠️ skills and tools 
 
