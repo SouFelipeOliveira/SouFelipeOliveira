@@ -42,7 +42,7 @@ Let's connect and share ideas:
 ## 🛠️ skills and tools 
 
 <p align='center'>
-  <img src="https://skillicons.dev/icons?i=python,django,git,html,css,js,angular,ionic,postgres,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,git,html,css,js,angular,postgres,linux" />
 </p>
 
 ##
