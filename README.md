@@ -30,7 +30,6 @@ I'm currently focused on learning and improving my skills!
 
 
 
-
 ## 🌐 Connect with Me
 
 Let's connect and share ideas:
