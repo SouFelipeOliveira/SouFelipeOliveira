@@ -8,19 +8,13 @@
   <img src='https://github.com/SouFelipeOliveira/SouFelipeOliveira/assets/105752126/582a347b-e9c6-4746-bb09-31bb6a9d2512' />
 </p>
 
-## 📫 Contact Information
-
-- Email: [flipeaz342@gmail.com](mailto:flipeaz342@gmail.com)
-- LinkedIn: [Felipe Oliveira](https://www.linkedin.com/in/felipe-oliveira-384b00265/)
-
-
 ## 📈 GitHub Stats
 
 <p align='center'>
-  <img height="180em" width="48%" src="https://github-readme-stats-flipperweels-projects.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=dark"/><br>
-  <img height="180em" width="48%" src='https://github-readme-stats-flipperweels-projects.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/><br>
+  <img src='https://github-readme-streak-stats-gold.vercel.app?user=SouFelipeOliveira&theme=city_lights&date_format=j%20M%5B%20Y%5D' /><br>
+  <img height="180em" width="48%" src='https://github-readme-stats-flipperweels-projects.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true'/>
+  <img height="180em" width="48%" src="https://github-readme-stats-flipperweels-projects.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=city_lights"/>
   
-  <img src='https://github-readme-streak-stats-gold.vercel.app?user=SouFelipeOliveira&theme=dark&date_format=j%20M%5B%20Y%5D' />
 </p>
 
 
