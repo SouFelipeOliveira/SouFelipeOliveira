@@ -24,8 +24,8 @@ I'm currently focused on learning and improving my skills!
 
 
 <p align=center>
-  <img height="180em" width="48%" src='https://github-readme-stats-git-main-flipperweel.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
-  <img height="180em" width="48%" src="https://github-readme-stats-git-main-flipperweel.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src='https://github-readme-stats-flipperweels-projects.vercel.app/api?username=SouFelipeOliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true'/>
+  <img height="180em" width="48%" src="https://github-readme-stats-flipperweels-projects.vercel.app/api/top-langs/?username=SouFelipeOliveira&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 
